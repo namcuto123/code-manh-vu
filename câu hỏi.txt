@@ -1,0 +1,4 @@
+Cháu muốn hỏi là:
+- muốn cố định khối vì chạy lần 1 ok đúng kích thước 1 lúc sau chạy lại kích thước bị sai lệch(muốn khóa các div cố định lại ạ)?
+-mấy thiết kế menu các cấp?
+
