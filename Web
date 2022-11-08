@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bai 6</title>
+    <link rel="stylesheet" href="b6.css">
+</head>
+<body>
+    
+                
+         <div class="menu">
+            <div class="container">
+            <a href="" ><img src="images/Logo.gif"></a>
+            <a href=""><img src="images/Nut_GioiThieu.gif"></a>
+            <a href="buoi6 trang con.html"> <img src="images/Nut_LienHe.gif"></a>
+            <a href=""><img src="images/Nut_ThuongMai.gif"></a>
+            <a href=""><img src="images/Nut_DichVu.gif"></a>
+            <a href=""> <img src="images/Nut_DauTu.gif"></a>
+            <a href=""><img src="images/Nut_DuLich.gif"></a>
+         </div>     
+</div>
+       
+    <div class="content">
+        <div class="container">
+         <div class="left-content">
+            <img src="images/GioiThieu_Hinh.gif">
+            <h1><img src="images/english.gif"><img src="images/tiengviet.gif"></h1>
+        </div>
+
+    <div class="right-content">
+         <div>
+                <img src="images/GioiThieu_TieuDe.gif">
+               <p>
+                  Tên công ty:     <span>CÔNG TY CỔ PHẦN THƯƠNG MẠI & DU LỊCH SAIGON .</span><br>
+Tên nước ngoài: <span>SAIGON COMPANY TRADING & TOURIST SERVICES.</span><br>
+   
+Tên viết tắt:     <span> SP.Co.</span></br>
+Trụ sở đặt tại: 205 CMT8 - Phường 4 - Q3 - TPHCM.</br>
+Điện thoại: (84-8) 8 332 740 - 8 332 003.</br>
+Fax: (84-8) 8 332 642.</br>
+Email: <a href="spco@hcm.fpt.vn">spco@hcm.fpt.vn</a> hoặc <a href="spcohcm@hcm.vnn.vn">spcohcm@hcm.vnn.vn</a></br>
+Website: <a href="http://www.spcovietnam.com">http://www.spcovietnam.com</a><br><br>
+
+<span>Chức năng:</span><br><br>
+ <ul>
+	<li>Mua bán, đại lý ký gởi và du lịch nội địa:</li>
+   <ul>
+	- Tư liệu sản xuất: Vật tư, nguyên liệu, máy móc, phụ tùng phục vụ sản
+	        xuất<br> công nghiệp và thực phẩm công nghệ.<br>
+	- Tư liệu tiêu dùng: Bách hoá - Kim khí điện máy, hàng điện tử, thủ        
+	        công mỹ<br> nghệ.<br>
+	- Du lịch nội địa: Lữ hành, khách sạn, vận chuyển khách du lịch, ăn       
+	        uống,<br> hướng dẫn du lịch.<br>
+   </ul>
+	<li>Xe gắn máy và ôtô các loại, thủy hải sản, lương thực, thực phẩm,rượu bia,<br> 
+	nước giải khát.</li>
+	<li>Vận tải hàng hoá bằng đường bộ. Dịch vụ vận chuyển.</li> 
+	<li>Dịch vụ giao nhận hàng hoá trong nước</li>
+	<li>Dịch vụ quảng cáo trên báo đài, tạp chí, ấn phẩm.</li>
+	<li>Cho thuê kho bãi.</li>
+	<li>Xây dựng dân dụng và cho thuê nhà ở.</li>
+	<li>Dịch vụ tư vấn hỗ trợ doanh nghiệp trong quản lý chuyển giao công nghệ,<br> chất lượng sản phẩm, môi trường.
+      Đầu tư - xây dựng - kinh doanh kết cấu hạ<br> tầng trong các khu công nghiệp, khu chế xuất, khu công nghệ cao.</li>
+ </ul>	 
+ </p>
+ <hr>
+    </div>
+   </div>
+  </div>
+  <div style="display:flex"></div>
+  <div class="footer">
+     <p> xem tốt nhất với trình duyệt IE 5.0 trở lên.Độ phân giải 880x600</p>
+  </div>
+</div>
+
+
+</body>
+</html>
